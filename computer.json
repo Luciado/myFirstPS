@@ -1,0 +1,13 @@
+{
+  "computer": {
+    "merk": "Gigabyte",
+    "type": "AORUS 16X ASG",
+    "cpu": "Intel Core I7-14650HX",
+    "ram": "32",
+    "opslag": "1000",
+    "vrijeRuimte": "370",
+    "gpu": "NVIDIA GeForce RTX 4070 Mobile",
+    "besturingssysteem": "Windows 11 Pro",
+    "serienummer": "SN24156J000274"
+  }
+}
